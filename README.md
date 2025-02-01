@@ -24,4 +24,4 @@ Task that show you can make question like an exam.
 - Bootstrap: For styling the UI.
 
 ## Screenshot 
-![screenshoot](src/Assets/swiper.png)
+![screenshoot](src/question.png)
